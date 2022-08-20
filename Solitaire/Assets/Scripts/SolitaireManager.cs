@@ -5,7 +5,7 @@ using UnityEngine;
 using neXn.Lib.Playingcards;
 using neXn.Lib.Playingcards.Classes;
 
-public class Bgg : MonoBehaviour
+public class SolitaireManager : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
