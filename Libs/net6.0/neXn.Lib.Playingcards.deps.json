@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "neXn.Lib.Playingcards/1.0.5": {
+        "runtime": {
+          "neXn.Lib.Playingcards.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "neXn.Lib.Playingcards/1.0.5": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
